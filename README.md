@@ -4,7 +4,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-A simple and user-friendly **Desktop Employee Management System** built in Python with Tkinter GUI.  
+A Simple and User-friendly **Desktop Employee Management System** built in Python with Tkinter GUI.  
 Manage employee records efficiently with a clean login system and easy-to-use interface.
 
 ---
